@@ -3,6 +3,7 @@
 A native macOS application built with **SwiftUI** designed to manage, customize, and rapidly copy AI prompts tailored specifically for your **RemNote** study workflow.
 
 The app features a built-in local HTTP server that communicates with RemNote in real-time. It automatically inserts content from your currently active flashcard (front, back, document path, and images) directly into your AI prompts.
+<img width="1393" height="872" alt="image" src="https://github.com/user-attachments/assets/bb39da45-0dcd-4c1b-9d92-ecad250cb360" />
 
 ---
 
